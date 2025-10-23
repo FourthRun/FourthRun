@@ -1,16 +1,13 @@
-## Hi there 👋
+# Who am I?
+### Education
+<img src="./img/Dimigo_logo.ico" width="30px" valign="middle"> &nbsp;**Korea Digital Media High School** <sub>(Graduate)</sub>  
+📚 E-Business 17th  
+📅 2018.03 – 2021.01  
 
-<!--
-**FourthRun/FourthRun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./img/Hanshin_Univ_logo.ico" width="30px" valign="middle"> &nbsp;**Hanshin University** <sub>(Undergraduate)</sub>  
+📚 Majors:  
+&nbsp;&nbsp;- IT Media Contents  
+&nbsp;&nbsp;- Computer Engineering  
+&nbsp;&nbsp;- (Future) Applied Statistics  
+📅 2021.03 – Present
