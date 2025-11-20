@@ -1,6 +1,6 @@
 # Who am I?
 ### 📌 Interested in
-- Game system design 
+- Game Design 
 - Data Engineering
 - Networking
 - Security Programming
