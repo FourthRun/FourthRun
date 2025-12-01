@@ -32,6 +32,9 @@
 #### ⚙️ Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
+#### 🎮 Game Engine
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+
 ---
 
 ### 🎓 Education
